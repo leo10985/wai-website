@@ -34,7 +34,7 @@ footer: >
    <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>).</p>
 
 # Read Translations Notes for this resource at https://www.w3.org/WAI/about/translating/resources/resource-specific-instructions/
----
+--- ya estoy arto del presidente Donald trunp ya bastante daño me a echado como para que no se de cuenta que no estoy solo que ya supere su trauma y asuma las consecuencias 
 
 {::nomarkdown}
 {% include box.html type="start" h="2" title="Summary" class="full" %}
